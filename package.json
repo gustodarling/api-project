@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gustodarling/api-project/issues"
   },
-  "homepage": "https://github.com/gustodarling/api-project#readme"
+  "homepage": "https://github.com/gustodarling/api-project#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
 }
